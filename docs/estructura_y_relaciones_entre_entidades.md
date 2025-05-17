@@ -1,4 +1,4 @@
-## Estructura de entidades
+## Estructura de entidades (Modelos)
 
 ### Usuario 👨‍💼
 
@@ -16,4 +16,4 @@
 
 ---
 
-## Relaciones entre entidades 🪢
+## Relaciones entre entidades 🪢 

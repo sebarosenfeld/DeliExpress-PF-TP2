@@ -3,6 +3,7 @@
 Este documento describe las **reglas de negocio** implementadas en la aplicación. Las reglas están organizadas por entidad y representan el comportamiento esperado del sistema más allá de las simples operaciones CRUD.
 
 > ✅ Este archivo debe mantenerse actualizado conforme se implementen nuevas reglas o se modifiquen las existentes.
+> 📈 Cualquier mejora o corrección debe estar plasmada en un comentario dentro del issue correspondiente.
 
 ---
 

@@ -7,7 +7,7 @@
 * Sebastian Rosenfeld
 * Mateo Alonso De Armio
 
-*Requirimientos Mpinimos:*
+*Requirimientos Mínimos:*
 * Mínimo de 5 colecciones.
 * Credenciales individuales por integrantes.
 * Para cada colección, de 4 endpoints (Alta, Baja, Modificación y Lectura).
