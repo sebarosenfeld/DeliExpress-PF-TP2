@@ -1,0 +1,5 @@
+# Ignorar las dependencias instaladas localmente.
+node_modules/
+
+# Ignorar el archivo que contiene las variables de entorno.
+.env
