@@ -176,4 +176,4 @@ Si se quiere agregar una nueva regla de negocio que afecte el funcionamiento de 
   - `documentación`
   
   
-    ![alt text](img\ejemploIssue.png)
+    ![alt text](img/ejemploIssue.png)
