@@ -52,6 +52,8 @@
     ```
 
   Como el proyecto requiere que cada uno de los participantes utilice sus propias credenciales en la base de datos (MongoDB) se debe agregar el archivo `.env` al `.gitignore`. Esto evitará que las credenciales se sobreescriban cada vez que un integrante realiza un _push_ al repositorio.
+
+  ---
   
   ### 🏃‍♂️‍➡️ Correr la aplicación
   Instalá las dependencias necesarias con el siguiente comando:
@@ -71,6 +73,15 @@
   ```bash
   npm start
   ```
+  ---
+
+  ### 📚 Ramas del proyecto
+  El proyecto tiene como base dos ramas `main` y `develop`. En `main` se subiran toso los cambios **permanentes y funcionales** generados en el desaroolo del proyecto. En cambio, en `develop` se van a subir todos los cambios realizados por los integrantes. Esta rama es el nexo de los **cambios individuales** realizados en cada rama personal, por esta razón es que se utilizará para probar las funcionalidades agregadas por los integrantes del equipo antes de poder subirlas a `main`. 
+  
+  **Los integrantes deben generar su propia rama del proyecto en la cual realizarán lo propuesto en cada _issue_.**
+
+  Una vez que un integrante haya generado un cambio funcional en su rama debrá hacer un _merge_ sobre `develop` para probar el conjunto de funcionalides agregadas por el resto de los integrantes. Si todo funciona correctamente será posible hacer un _merge_ desde `develop` a `main`.
+
   ---
   
   ## 🛠️ Agregar Issues
