@@ -75,12 +75,27 @@
   ```
   ---
 
-  ### 📚 Ramas del proyecto
-  El proyecto tiene como base dos ramas `main` y `develop`. En `main` se subiran toso los cambios **permanentes y funcionales** generados en el desaroolo del proyecto. En cambio, en `develop` se van a subir todos los cambios realizados por los integrantes. Esta rama es el nexo de los **cambios individuales** realizados en cada rama personal, por esta razón es que se utilizará para probar las funcionalidades agregadas por los integrantes del equipo antes de poder subirlas a `main`. 
-  
-  **Los integrantes deben generar su propia rama del proyecto en la cual realizarán lo propuesto en cada _issue_.**
+### 🌱 Ramas del proyecto
+El proyecto se organiza en dos ramas principales:
 
-  Una vez que un integrante haya generado un cambio funcional en su rama debrá hacer un _merge_ sobre `develop` para probar el conjunto de funcionalides agregadas por el resto de los integrantes. Si todo funciona correctamente será posible hacer un _merge_ desde `develop` a `main`.
+- **main**: contiene los cambios permanentes y funcionales del proyecto.
+
+- **develop**: es la rama de integración donde se suben los cambios de los integrantes.
+
+Cada integrante debe crear su propia rama personal a partir de develop, donde trabajará en los issues asignados.
+
+### 🔁 Flujo de trabajo sugerido
+1. Crear una rama personal desde develop:
+
+```bash
+git checkout develop
+git checkout -b nombre-rama
+```
+2. Desarrollar la funcionalidad correspondiente.
+
+3. Hacer **merge** a `develop` para integrar y probar con el resto de cambios.
+
+4. Cuando todo funcione correctamente en `develop`, hacer **merge** a `main`.
 
   ---
   
