@@ -1,9 +1,25 @@
 # 🚴‍♂️ DeliExpress
   
-  ### Proyecto final de Taller de Programación 2
+  #### Proyecto final de Taller de Programación 2
+  #### Comisión 2-1-C 2025 
+  #### Instituto Tecnológico ORT
   
   ---
-  
+  ## 📑Índice
+  - [Integrantes](#-integrantes)
+  - [Requisitos mínimos](#-requisitos-mínimos)
+  - [Reglas de negocio](#-reglas-de-negocio)
+  - [Estructura y relaciones entre entidades](#-estructura-y-relaciones-entre-entidades)
+  - [Como utilizar el proyecto](#️-cómo-utilizar-el-proyecto)
+    - [Plantilla para archivo .env](#-plantilla-para-archivo-env)
+    - [Correr la aplicación](#️️-correr-la-aplicación)
+    - [Ramas del proyecto](#-ramas-del-proyecto)
+    - [Flujo de trabajo sugerido](#-flujo-de-trabajo-sugerido)
+  - [Agregar Issues](#️-agregar-issues)
+    - [Ejemplo](#-ejemplo)
+
+---
+
   ## 👨‍💻 Integrantes
   
   - Federico Wainstein  
